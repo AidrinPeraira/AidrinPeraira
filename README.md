@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aidrin+Peraira+👋;Full-Stack+Developer;Civil+Engineer+turned+Coder;MERN+%7C+TypeScript+%7C+Clean+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aidrin+Peraira+👋;Full-Stack+Developer;Civil+Engineer+turned+Coder;MERN+%7C+TypeScript)](https://git.io/typing-svg)
 
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=aidrinperaira&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
