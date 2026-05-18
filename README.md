@@ -10,7 +10,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 ```typescript
 const aidrin = {
@@ -26,7 +26,7 @@ const aidrin = {
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <!-- Skill Icons - from skillicons.dev -->
 <div align="center">
@@ -37,7 +37,7 @@ const aidrin = {
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -47,7 +47,7 @@ const aidrin = {
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -65,7 +65,7 @@ const aidrin = {
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
 
@@ -75,7 +75,7 @@ const aidrin = {
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <div align="center">
 
