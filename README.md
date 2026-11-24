@@ -42,7 +42,7 @@ const aidrin = {
 | Project | Description | Stack |
 |---|---|---|
 | [**Local Shop**](https://github.com/AidrinPeraira/local-shop) | B2B E-Commerce Platform for bulk manufacturers & buyers | Next.js, Node.js, TypeScript, PostgreSQL |
-| [**ShareMyRide**](https://github.com/AidrinPeraira/SMR-Project2) | Carpooling Web App — split travel costs with private vehicle owners | React, Node.js, Express, MongoDB |
+| [**ShareMyRide**](https://github.com/AidrinPeraira/SMR-Carpooling) | Carpooling Web App — split travel costs with private vehicle owners | React, Node.js, Express, MongoDB |
 | [**NavBuddy**](https://github.com/AidrinPeraira/navigation-app) | Geospatial Routing Prototype with real-time map rendering | Next.js, Mapbox GL |
 | [**AthenaAI**](https://github.com/AidrinPeraira/athena-ai) | AI Chat Bot - HR guidence and strategy assistant. | RAG, GeminiAPI, NextJS, LangChain |
 ---
